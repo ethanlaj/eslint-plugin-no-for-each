@@ -16,6 +16,7 @@
 
 
 What it does? Fix `forEach`, `for in`, and `for of` loops.
+
 **THIS IS A MODIFIED VERSION**
 Removes the autofixing feature because it can't tell difference between arrays and collections.
 
